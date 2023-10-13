@@ -5,3 +5,7 @@ A 7 Segment display is used to show numbers in decimal or hexadecimal format. In
 This config. it´s ON with '1' and OFF with '0'.
 
 In bcd_7seg.h you can see HEX coding, inside MSP430, we assigned 1 bit for each segment and 1 bit for each digit. This counter is from 0 to FFFF
+
+
+https://github.com/M19120/counterHEX-with-4-digits-in-MSP430FR5994/assets/77844733/768d1467-d68f-44b8-a089-e170766a7396
+
